@@ -1,7 +1,7 @@
 ---
 title: "Programming Assignment 2 Submission"
 subtitle: "Data Visualization by University of Illinois at Urbana-Champaign"
-author: "[®γσ, Eng Lian Hu](http://englianhu.wordpress.com) <img src='figure/ShirotoNorimichi.jpg' width='24'> 白戸則道®"
+author: "Saheli Basu"
 date: "`r Sys.Date()`"
 output:
   tufte::tufte_html:
@@ -290,8 +290,8 @@ d3Tree(List = as.list(football.nodes), fontsize = 4, diameter = 400)
   - [**tufte** package](https://github.com/rstudio/tufte) version: `r packageVersion('tufte')`
   - [**mosaic** package](https://github.com/ProjectMOSAIC/mosaic) version: `r packageVersion('mosaic')`
   - File version: 1.0.0
-  - Author Profile: [®γσ, Eng Lian Hu](https://beta.rstudioconnect.com/englianhu/ryo-eng/)
-  - GitHub: [Source Code](https://github.com/englianhu/Coursera-Data-Mining)
+ 
+  - GitHub: [Source Code](https://github.com/meharima/Coursera-Data-Mining)
   - Additional session information:
 
 ```{r info, echo=FALSE, results='asis'}
